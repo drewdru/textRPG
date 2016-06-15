@@ -4,9 +4,13 @@ textRPG/settings.py
 *.mwb
 *.mwb.bak
 *.sqlite3
+*.log
 
-__pycache__
-*.pyc
 .vscode/
 
 delete.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
