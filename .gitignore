@@ -1,0 +1,12 @@
+textRPG/settings.py
+
+*.db
+*.mwb
+*.mwb.bak
+*.sqlite3
+
+__pycache__
+*.pyc
+.vscode/
+
+delete.txt
